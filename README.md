@@ -15,6 +15,8 @@ This HTML crashes Chromium browsers on M1 Macbook Pro 2021 when I click the 'X'.
 </html>
 ```
 
+https://user-images.githubusercontent.com/30010/171657274-9fafff3d-6436-4b7c-b5a0-ac11d8b8af02.mp4
+
 I need to have at least 'cc c' ('c' being any character). 'c c' doesn't make browsers crash, neither does 'cccc', or 'c cc'.
 
 ## My Machine
@@ -38,7 +40,9 @@ Chromium browsers I've tried:
 
 It doesn't crash VS Code
 
-It doesn't crash:
+https://user-images.githubusercontent.com/30010/171657400-bc9c0c03-f099-43e9-bb06-dee12531da03.mp4
+
+And it doesn't crash:
 
 * Safari
 * Firefox
