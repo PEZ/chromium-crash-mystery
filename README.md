@@ -19,6 +19,10 @@ https://user-images.githubusercontent.com/30010/171657274-9fafff3d-6436-4b7c-b5a
 
 I need to have at least 'cc c' ('c' being any character). 'c c' doesn't make browsers crash, neither does 'cccc', or 'c cc'.
 
+As far as I know it only happens on my machine. A super quick way to try it yourself is to visit this website and click the `X`:
+
+* Demo site: https://chromium-crash-mystery.netlify.app
+
 ## My Machine
 
 * Model Name:	MacBook Pro
